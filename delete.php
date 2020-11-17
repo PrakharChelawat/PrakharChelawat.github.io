@@ -1,4 +1,6 @@
 <?php
+
+//comment added in delete.php
 include_once 'connection.php';
  
  
